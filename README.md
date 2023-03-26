@@ -2,7 +2,8 @@
 These are code samples from my private repo and past work, shared for job applications.
 
 ## FFB-Controller
-This is a currently ongoing hobby project. Mostly things related to serial communication with the configurator (Python, TKinter, not included) and a class that calculates emulated countersteering effects. Very WIP
+This is a currently ongoing hobby project. Mostly things related to serial communication with the configurator (Python, TKinter, not included) and a class that calculates emulated countersteering effects. Very WIP.
+[Video of the rig](https://drive.google.com/file/d/1YEaSv7G62LYmZZyxUvc4kIO_w3OMty4o/view?usp=share_link).
 
 ## Java game from 2010
 Probably not very relevant, this is how I started with programming in 2010.
